@@ -1,6 +1,6 @@
 # Stats Don't Have to Be Scary: Automatic a/b Test Analysis Using Python
 ## Kristie Wirth, Data Scientist at Zapier
-[Slides](bit.ly/2lXuHdN)
+[Slides](www.bit.ly/2lXuHdN)
 ---
 
 ### Why do I need to do A/B testing?
